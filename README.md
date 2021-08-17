@@ -5,12 +5,16 @@
 - 💬 E também pelo meu whatsapp: **+55 (62) 9 9117-0993**
 - ⚙️Tenho trabalhado em alguns **projetos pessoais**, e nesse perfil você os encontrará
 
-
-<div style="display:inline-block;">
-  
-  <img   src="https://github-readme-stats.vercel.app/api?username=correavitor4&line_height=25&count_private=true&show_icons=true&theme=default&hide_title=false"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=correavitor4&layout=compact&hide_title=true&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
+&nbsp;
+<div>
+  <img  width="100%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=correavitor4&layout=compact&hide_title=true&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
 </div>
+
+<div>
+  <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=correavitor4&line_height=25&count_private=true&show_icons=true&theme=default&hide_title=false"/>
+</div>
+
+
 
 
 
