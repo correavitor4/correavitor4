@@ -7,8 +7,8 @@
 
 
 <div>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=correavitor4&count_private=true&show_icons=true&theme=default&hide_title=false"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_title=true&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
+  <img   src="https://github-readme-stats.vercel.app/api?username=correavitor4&count_private=true&show_icons=true&theme=default&hide_title=false"/>
+  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_title=true&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
 </div>
 
 
