@@ -6,10 +6,13 @@
 - ⚙️Tenho trabalhado em alguns **projetos pessoais**, e nesse perfil você os encontrará
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=correavitor4&count_private=true&show_icons=true&theme=graywhite&hide_title=true&line_height=50)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=correavitor4&count_private=true&show_icons=true&theme=default&hide_title=false"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_title=true&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
+</div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=correavitor4)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **correavitor4/correavitor4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
