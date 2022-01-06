@@ -1,8 +1,8 @@
 # **João Vitor Oliveira Corrêa** 💡
 Olá! Em meu perfil você encontrará:
-- Projetos para portifólio
-- Exercícios da faculdade
-- Projetos pessoais que não necessariamente servem como portifólio, mas que às vezes quero deixar como públicos
+- Projetos para portifólio 🖥️
+- Exercícios da faculdade 📓
+- Projetos pessoais que não necessariamente servem como portifólio, mas que às vezes quero deixar como públicos ⚙️
 
 &nbsp;
 <div>
