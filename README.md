@@ -1,9 +1,5 @@
 # Olá! Esse é o perfil de **João Vitor Oliveira Corrêa** 💡
-- 💽 Estou me preparando para trabalhar com back-end, preferencialmente C# ou JS e PHP
-- 🌱 Estou estudando **Windows Forms**, **JavaScript** e **PHP**
-- 📧Você pode entrar em contato comigo pelo meu email: **correavitor4@hotmail.com**
-- 💬 E também pelo meu whatsapp: **+55 (62) 9 9117-0993**
-- ⚙️Tenho trabalhado em alguns **projetos pessoais**, e nesse perfil você os encontrará
+
 
 &nbsp;
 <div>
