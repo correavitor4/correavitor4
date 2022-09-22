@@ -14,5 +14,5 @@
 
 
 <div>
-  <img  width="100%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=correavitor4&layout=compact&hide_title=true&langs_count=6&theme=dracula&hide=assembly&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
+  <img  width="100%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=correavitor4&layout=compact&hide_title=true&langs_count=6&theme=radical&hide=assembly&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
 </div>
