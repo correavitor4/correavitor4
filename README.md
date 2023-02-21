@@ -3,13 +3,14 @@
 - .NET (C#, Entity, ASPNET CORE) 
 - HTML, CSS e JavaScript
 - Nivel básico em React
-- GitHub 
+- Golang 
 
 
 
 ## **Um pouco mais sobre mim...**
 - 🔭 Atualmente trabalho como desenvolvedor .NET em uma aplicação de opções binárias
-- 🌱 Atualmente estudo Backend em C#, mas também venho estudando front-end.
+- 🌱 Atualmente utilizo C# e Golang para fazer projetos backend.
+- 📱 Tenho interessen em .NET MAUI
 - 📫 Você pode me encontrar no Linkedin (https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-corr%C3%AAa-2b706020a/)...
 
 
