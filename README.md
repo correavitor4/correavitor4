@@ -1,7 +1,7 @@
 # Vitor Corrêa
-Sou um Desenvolvedor Backend que cursa Ciência da Computação em um Instituto Federal, e já atuo profissionalmente na Academia do Desenvolvedor
+Sou um Desenvolvedor Backend que cursa Ciência da Computação em um Instituto Federal, e atualmente estou na Code Tower
 
-Eu gosto de trabalhar em projetos reais, e gosto de acreditar que meu trabalho será útil para alguém. Algumas pessoas me consideram metódico e organizado, e dizem que tenho uma considerável disciplina. 
+Eu gosto de trabalhar em projetos reais, e gosto de acreditar que meu trabalho será útil para alguém. Algumas pessoas me consideram metódico e organizado. 
 
 Abaixo estão alguns links para contato:
 <div>
