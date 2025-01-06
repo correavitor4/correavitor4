@@ -51,9 +51,6 @@ A linguagem de programação que mais conheço, e que mais tenho experiência, �
 
 ### Experiência
 ---
-Atuo a 1 ano, na Academia do Desenvolvedor, como dev Backend. Lá eu participo de projetos prestados para clientes da empresa. 
-* Já participei da criação e manutenção de corretoras de opções binárias, sistema de sorteios, criação de automações, entre outros.
-* Também já ministrei aulas de JavaScript básico para alunos de Ensino Médio
-
-Tudo isso eu fiz trabalhando para essa empresa em específico
-
+Atuo profissionalmente a 3 anos.
+* Academia do Desenvolvedor: Já participei da criação e manutenção de corretoras de opções binárias, sistema de sorteios, criação de automações, sistema de aplicativo de transportes, etc.
+* Code Tower: trabalhei com o desenvolvimento e manutenção de diversos sistemas e aplicativos
