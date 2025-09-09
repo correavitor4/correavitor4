@@ -54,3 +54,4 @@ A linguagem de programação que mais conheço, e que mais tenho experiência, �
 Atuo profissionalmente a 3 anos.
 * Academia do Desenvolvedor: Já participei da criação e manutenção de corretoras de opções binárias, sistema de sorteios, criação de automações, sistema de aplicativo de transportes, etc.
 * Code Tower: trabalhei com o desenvolvimento e manutenção de diversos sistemas e aplicativos
+* UOL Compass: Estagiei por 6 meses como desenvolvedor Backend com Spring Boot e Java.
